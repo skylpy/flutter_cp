@@ -19,3 +19,5 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+/test1_app/ios/
+/test1_app/android/
